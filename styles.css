@@ -1,0 +1,21 @@
+body{
+  background-color: antiquewhite;
+}
+
+.pageHeader{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 250px;
+}
+
+.shop{
+  flex-basis: calc(33% - 20px);
+  /* border: 1px dotted black; */
+  margin-right: 20px;
+}
