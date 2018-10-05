@@ -1,10 +1,13 @@
 body{
-  background-color: antiquewhite;
+  background-color: bisque;
+  font-family: 'Delius', cursive;
 }
 
 .pageHeader{
   text-align: center;
   padding-bottom: 15px;
+  font-family: 'Faster One', cursive;
+  font-size: 2em;
 }
 
 .list {
